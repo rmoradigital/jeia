@@ -1,0 +1,6 @@
+[INFO] Iniciando verificación de integridad de procesos...
+[DEBUG] Validando canal: SIM_PORT_0
+[DEBUG] Validando canal: SIM_PORT_1
+[DEBUG] Validando canal: SIM_PORT_2
+[INFO] Verificación completada. Puports procesados: 3
+[OK] El entorno de desarrollo es estable und las dependencias son correctas.

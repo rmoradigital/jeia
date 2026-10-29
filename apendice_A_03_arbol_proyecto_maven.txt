@@ -1,0 +1,9 @@
+proyecto-ingenieria/
+├── pom.xml                    # Archivo de configuración de dependencias
+├── src/
+│   ├── main/
+│   │   └── java/              # Código fuente de la aplicación (lógica de control)
+│   │       └── com/proyecto/  # Paquetes organizados
+│   └── test/
+│       └── java/              # Pruebas unitarias (JUnit 5)
+└── target/                    # Directorio de salida (binarios compilados)
