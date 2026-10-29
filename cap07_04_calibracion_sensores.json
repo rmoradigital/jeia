@@ -1,0 +1,7 @@
+{
+  "sensorTension": {
+    "offsetVoltios": 0.05,
+    "escala": 1.02
+  },
+  "frecuenciaMuestreoHz": 2
+}
